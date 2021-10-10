@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Project
+
+The goal of this project is to make a personal blog with **NextJS, Markdown and gray-matter**.
 
 ## Getting Started
 
